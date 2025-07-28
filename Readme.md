@@ -4,9 +4,29 @@ This repository contains my personal solutions to **CodeChef problems**, includi
 
 ---
 
-## 🚀 Language Used
+## Language Used
 
 - ☕ **Java**
+
+
+## Problem Solving Progress
+
+| Metric                  | Count |
+|-------------------------|-------|
+|  Total Problems Solved | 96    |
+|  Contests Participated | 7     |
+
+---
+
+## 🧠 Topics Covered
+
+- Arrays
+- Strings
+- Sorting
+- Stack & Queue
+- Bit Manipulation
+- Math & Number Theory
+- ...and more
 
 ---
 
@@ -25,26 +45,6 @@ This repository contains my personal solutions to **CodeChef problems**, includi
 
 ---
 
-## ✅ Problem Solving Progress
-
-| Metric                  | Count |
-|-------------------------|-------|
-| 💡 Total Problems Solved | 96    |
-| 🧠 Contests Participated | 7     |
-
----
-
-## 🧠 Topics Covered
-
-- Arrays
-- Strings
-- Sorting
-- Stack & Queue
-- Bit Manipulation
-- Math & Number Theory
-- ...and more
-
----
 
 ## 📌 Notes
 
