@@ -7,14 +7,14 @@ This repository contains my personal solutions to **CodeChef problems**, includi
 ## Language Used
 
 - ☕ **Java**
-
+- ©️➕➕
 
 ## Problem Solving Progress
 
-| Metric                  | Count |
-|-------------------------|-------|
-|  Total Problems Solved | 96    |
-|  Contests Participated | 7     |
+| Metric                | Count |
+| --------------------- | ----- |
+| Total Problems Solved | 163   |
+| Contests Participated | 11    |
 
 ---
 
@@ -30,7 +30,6 @@ This repository contains my personal solutions to **CodeChef problems**, includi
 
 ---
 
-
 ## 📂 Folder Structure
 
 ```bash
@@ -41,17 +40,13 @@ This repository contains my personal solutions to **CodeChef problems**, includi
    └── ...   # Subtopics (e.g., Arrays, DP, etc.)
 ```
 
-
-
 ---
-
 
 ## 📌 Notes
 
 - Solutions are written for **learning purposes**.
 - Most problems include **inline comments** explaining the approach.
 - File and folder names follow a **clean and consistent format**:
-
 
 ---
 

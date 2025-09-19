@@ -1,5 +1,8 @@
-vscode
+.vscode
 
 settings.json
 
 *.class
+*.cph
+*.exe
+*output
